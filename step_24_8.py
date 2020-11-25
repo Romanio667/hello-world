@@ -28,4 +28,3 @@ input1 = browser.find_element_by_id('answer')
 input1.send_keys(s)
     
 button1.click()
-//test
